@@ -1,3 +1,7 @@
+node_modules/
+problems/
+corpus/
+leetcode_debug.png
 # Logs
 logs
 *.log
